@@ -1,0 +1,16 @@
+PODS:
+  - LinkedME_LinkPage (1.5.2.3)
+
+DEPENDENCIES:
+  - LinkedME_LinkPage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LinkedME_LinkPage
+
+SPEC CHECKSUMS:
+  LinkedME_LinkPage: 1e72648fa0f49671667c99f2e38717375fee2b8a
+
+PODFILE CHECKSUM: 3973cf3365558329ff79520c40fbcfbe7b0a4048
+
+COCOAPODS: 1.5.3
