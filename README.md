@@ -10,16 +10,16 @@ tip: **我的需求仅仅是从浏览器唤醒APP,并没有做深度链接**
 
 2.添加应用 && 应用配置
 
-![image.png](https://upload-images.jianshu.io/upload_images/1419035-c8c8e4ca62f6ee2a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![image.png](https://upload-images.jianshu.io/upload_images/1419035-c8c8e4ca62f6ee2a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-![image.png](https://upload-images.jianshu.io/upload_images/1419035-9846dbcbc4b717b0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![image.png](https://upload-images.jianshu.io/upload_images/1419035-9846dbcbc4b717b0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![image.png](https://upload-images.jianshu.io/upload_images/1419035-cdd0dace733aff10.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![image.png](https://upload-images.jianshu.io/upload_images/1419035-cdd0dace733aff10.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![image.png](https://upload-images.jianshu.io/upload_images/1419035-c198455a0c7b4daf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![image.png](https://upload-images.jianshu.io/upload_images/1419035-c198455a0c7b4daf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![image.png](https://upload-images.jianshu.io/upload_images/1419035-35f777c7bdfd168d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![image.png](https://upload-images.jianshu.io/upload_images/1419035-35f777c7bdfd168d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 3.xcode配置
