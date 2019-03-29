@@ -1,5 +1,7 @@
 ## 集成LinkedMe
 
+tip: **我的需求仅仅是从浏览器唤醒APP,并没有做深度链接**
+
 [LinkMe官网](https://www.linkedme.cc/)
 
 [github](https://codeload.github.com/WFC-LinkedME/LinkedME-iOS-Deep-Linking-Demo/zip/master)
