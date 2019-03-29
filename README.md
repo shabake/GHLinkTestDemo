@@ -22,9 +22,9 @@
 
 3.xcode配置
 
->1.导入sdk `pod 'LinkedME_LinkPage'
+>1.导入sdk `pod 'LinkedME_LinkPage'`
 >2.添加依赖库
->>CoreSpotlight.framework(状态一定要设置为可选)
+>>CoreSpotlight.framework**(状态一定要设置为可选)**
 >>SystemConfiguration.framework
 >>Security.framework
 >>WebKit.framework
@@ -53,15 +53,15 @@
 
 QA 无法唤起可能出现的原因
 
-1.参数没有配置正确
+>1.参数没有配置正确
 
-2.清空浏览器缓存
+>2.清空浏览器缓存
 
-3.清空xcode缓存
+>3.清空xcode缓存
 
-4.卸载demo
+>4.卸载demo
 
-5.重启手机
+>5.重启手机
 
 
 通过测试过前端开始 集成js SDk
